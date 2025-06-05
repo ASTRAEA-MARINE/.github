@@ -1,6 +1,6 @@
 # 🌊 ASTRAEA MARINE
 
-**Société par Actions Simplifiée (SAS) spécialisée dans la conception et la construction de navires et de structures flottantes autonomes.**
+**Bureau d'études spécialisé dans la conception et la construction de navires et de structures flottantes autonomes.**
 
 📍 Siège social :  
 ZAC de La Farlède  
@@ -11,7 +11,7 @@ ZAC de La Farlède
 
 ## 🧭 Présentation
 
-Fondée en avril 2024, ASTRAEA MARINE se positionne comme un acteur innovant dans le domaine maritime, en développant des solutions autonomes pour la surveillance et l'inspection en haute mer. L'entreprise se concentre sur la conception, la construction, la location et la vente de navires, de drones navals, de licences, de plans de constructions de navires de services, de navires à passagers, de navires militaires et de plateformes flottantes. :contentReference[oaicite:4]{index=4}
+Fondée en avril 2024, ASTRAEA MARINE se positionne comme un acteur innovant dans le domaine maritime, en développant des solutions autonomes pour la surveillance et l'inspection en haute mer. L'entreprise se concentre sur la conception, la construction, la location et la vente de navires, de drones navals, de licences, de plans de constructions de navires de services, de navires à passagers, de navires militaires et de plateformes flottantes.
 
 ---
 
@@ -25,7 +25,7 @@ Les USV (Unmanned Surface Vehicles) STOÏC sont des drones de surface conçus po
 - **Autonomie énergétique** : équipés de panneaux solaires, d’éoliennes et de voiles robotisées recouvertes de film solaire, permettant des missions de plusieurs semaines sans ravitaillement.
 - **Polyvalence** : conception modulaire adaptée à diverses missions.
 - **Capacités avancées** : dotés de caméras multispectrales, de radars, de sonars et de drones aériens et sous-marins pour une surveillance à 360°.
-- **Respect de l’environnement** : propulsion électrique et autonomie énergétique en font des solutions écologiques pour les opérations en mer. :contentReference[oaicite:5]{index=5}
+- **Respect de l’environnement** : propulsion électrique et autonomie énergétique en font des solutions écologiques pour les opérations en mer.
 
 ---
 
@@ -37,7 +37,7 @@ Les solutions d'ASTRAEA MARINE sont destinées à divers secteurs :
 - **Industrie offshore** : inspection des installations pétrolières, gazières et éoliennes.
 - **Recherche océanographique** : collecte de données environnementales.
 - **Protection de l’environnement** : surveillance de la pollution marine.
-- **Opérations de recherche et sauvetage** : couverture de vastes zones maritimes. :contentReference[oaicite:6]{index=6}
+- **Opérations de recherche et sauvetage** : couverture de vastes zones maritimes.
 
 ---
 
@@ -45,11 +45,8 @@ Les solutions d'ASTRAEA MARINE sont destinées à divers secteurs :
 
 - **SIREN** : 927 845 867
 - **SIRET (siège)** : 927 845 867 00013
-- **Forme juridique** : SAS, société par actions simplifiée
-- **Capital social** : 10 000 €
 - **Date de création** : 10/04/2024
-- **Code NAF / APE** : 30.11Z (Construction de navires et de structures flottantes)
-- **Président** : Martin OUDOT :contentReference[oaicite:7]{index=7}
+- **Président** : Martin OUDOT
 
 ---
 
