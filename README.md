@@ -21,11 +21,11 @@ Fondée en avril 2024, ASTRAEA MARINE se positionne comme un acteur innovant dan
 
 Les USV (Unmanned Surface Vehicles) STOÏC sont des drones de surface conçus pour répondre aux besoins croissants de surveillance et d'inspection en haute mer. Leurs caractéristiques incluent :
 
-- **Grande stabilité** : opérationnels jusqu’à 5 mètres de hauteur de vague.
-- **Autonomie énergétique** : équipés de panneaux solaires, d’éoliennes et de voiles robotisées recouvertes de film solaire, permettant des missions de plusieurs semaines sans ravitaillement.
-- **Polyvalence** : conception modulaire adaptée à diverses missions.
-- **Capacités avancées** : dotés de caméras multispectrales, de radars, de sonars et de drones aériens et sous-marins pour une surveillance à 360°.
-- **Respect de l’environnement** : propulsion électrique et autonomie énergétique en font des solutions écologiques pour les opérations en mer.
+- **Grande stabilité**
+- **Autonomie énergétique**
+- **Polyvalence**
+- **Capacités avancées**
+- **Respect de l’environnement**
 
 ---
 
@@ -34,7 +34,7 @@ Les USV (Unmanned Surface Vehicles) STOÏC sont des drones de surface conçus po
 Les solutions d'ASTRAEA MARINE sont destinées à divers secteurs :
 
 - **Défense et sécurité maritime** : surveillance des côtes, interception de navires suspects.
-- **Industrie offshore** : inspection des installations pétrolières, gazières et éoliennes.
+- **Industrie offshore** : inspection des installations éoliennes offshore.
 - **Recherche océanographique** : collecte de données environnementales.
 - **Protection de l’environnement** : surveillance de la pollution marine.
 - **Opérations de recherche et sauvetage** : couverture de vastes zones maritimes.
