@@ -58,3 +58,12 @@ Les solutions d'ASTRAEA MARINE sont destinées à divers secteurs :
 ---
 
 > *ASTRAEA MARINE : Ouvrons une nouvelle voie maritime.*
+
+
+## 🕊️ Animation albatros (toutes les 2 minutes)
+
+Un script prêt à intégrer est disponible ici :
+
+- `profile/albatros-wave-animation.js`
+
+Il ajoute un albatros qui traverse l'écran une fois toutes les **2 minutes** avec un mouvement vertical inspiré des vagues.
